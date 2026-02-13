@@ -1,4 +1,4 @@
-# OPNet - Smart Contracts on Bitcoin L1
+# OPNet - Smart Contracts on Bitcoin L12
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
